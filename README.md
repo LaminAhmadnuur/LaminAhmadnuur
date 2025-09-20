@@ -1,16 +1,28 @@
-## Hi there 👋
+# OroSmart
 
-<!--
-**LaminAhmadnuur/LaminAhmadnuur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**OroSmart** – Projecti websaayitii barnoota fi odeeffannoo Afaan Oromoo keessatti qophaa’e. Project kun barattoota, namoota technology fi projectota adda addaa hordofuu barbaadaniif qophaa’e.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Features
+
+- Websaayitii salphaa fi sirrii ta’e
+- Odeeffannoo fi projectota walitti qabuu
+- Afaan Oromoo keessatti qophaa’e
+- Responsive design (mobile fi desktop irratti mijataa)
+
+---
+
+## Teknoolojii Fayyadame
+
+- HTML5
+- CSS3
+- JavaScript (yoo barbaadde itti dabaluun ni danda’ama)
+
+---
+
+## Akkamitti Fayyadamuu
+
+1. Repo kana clone gochuu ykn download gochuu:  
+   ```bash
+   git clone https://github.com/USERNAME/OroSmart.git
